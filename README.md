@@ -13,4 +13,4 @@ Here is my deployed link
 
 
 
-![Code Quiz Image](Add Path to Picture)
+![Code Quiz Image](./Screenshot.png)
